@@ -54,5 +54,6 @@ ecommerce-scraper-analysis/
 ├── ecommerce_scraper_analysis.ipynb   # Main notebook with scraping, cleaning, analysis
 ├── ecommerce_data.db                  # SQLite database file (auto-generated)
 ├── README.md                          # This file
+└── requirements.txt                   # Python dependencies
 
 
